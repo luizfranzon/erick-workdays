@@ -10,6 +10,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <title>Erick Workdays</title>
       <body className='bg-[#2b253a]'>{children}</body>
     </html>
   )
